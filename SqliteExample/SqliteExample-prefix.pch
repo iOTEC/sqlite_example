@@ -1,0 +1,14 @@
+//
+//  SqliteExample-prefix.pch
+//  SqliteExample
+//
+//  Created by Orange Chang on 2016/3/28.
+//  Copyright © 2016年 iOTEC. All rights reserved.
+//
+
+#ifndef SqliteExample_prefix_h
+#define SqliteExample_prefix_h
+
+#import <sqlite3.h>
+
+#endif /* SqliteExample_prefix_h */
